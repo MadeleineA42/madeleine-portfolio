@@ -5,13 +5,13 @@
 }
 
 body {
-    background-color: #d9dcd6;
+    background-color: #fefffd;
 }
 
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #2a607c;
+    background-color: #8f9fba;
     color: #ffffff;
 }
 
@@ -39,7 +39,7 @@ li {
 }
 
 a {
-    color: #ffffff;
+    color: #100f0f;
     text-decoration: none;
 }
 
@@ -59,7 +59,7 @@ main article{
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
-    color: #ffffff;
+    color: #101010;
 }
 article img {
     max-height: 200px;
@@ -93,7 +93,7 @@ aside {
 
 section {
     margin-bottom: 32px;
-    color: #ffffff;
+    color: #100f0f;
 }
 
 
