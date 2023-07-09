@@ -11,13 +11,13 @@ body {
 header {
     padding: 20px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: #ee7181;
+    background-color: #c67588;
     color: #ffffff;
 }
 
 h1 {
     display: inline-block;
-    font-size: 48px;
+    font-size: 60px;
     font-family: cursive;
     text-shadow: 4px 4px 4px rgb(46, 120, 181);
 }
