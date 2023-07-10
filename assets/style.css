@@ -1,9 +1,3 @@
-* {
-    box-sizing: border-box;
-    padding: 0;
-    margin: 0;
-}
-
 body {
     width: 85%;
     margin: auto;
@@ -13,7 +7,6 @@ body {
 }
 
 header {
-    padding: 0px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: #c67588;
     color: #ffffff;
@@ -21,7 +14,7 @@ header {
 
 .topper   {
     width: 10%;
-    height: 100%;
+    height: auto;
 }
 
 h1 {
@@ -45,12 +38,14 @@ nav li {
 }
 
 a {
-    color: #100f0f;
-    text-decoration: none;
+    color: #77608e;
+}
+
+main{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 h2  {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 40px;
     color: #77608e;
 }
