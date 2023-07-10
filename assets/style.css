@@ -78,17 +78,17 @@ h2  {
 
 }
 
-.runner {
+.surf {
 width: 10%;
 height: 10%;
 }
 
-.surf   {
+.LED   {
 width: 10%;
 height: 10%;
 }
 
-.LED    {
+.calc    {
     width: 10%;
     height: 10%;
 }
@@ -98,7 +98,7 @@ height: 10%;
     height: 10%;
 }
 
-.calc   {
+.runner   {
     width: 10%;
     height: 10%;
 }
