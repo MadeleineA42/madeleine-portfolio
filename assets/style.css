@@ -30,13 +30,13 @@ nav {
     margin-top: 15px;
     padding-right: 100px;
     float: right;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 25px;
 }
 
-li {
+nav li {
     display: inline-block;
     margin-left: 25px;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 a {
