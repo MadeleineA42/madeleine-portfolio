@@ -79,21 +79,26 @@ h2  {
 }
 
 .runner {
-
+width: 10%;
+height: 10%;
 }
 
 .surf   {
-
+width: 10%;
+height: 10%;
 }
 
 .LED    {
-
+    width: 10%;
+    height: 10%;
 }
 
 .puzzle {
-
+    width: 10%;
+    height: 10%;
 }
 
 .calc   {
-
+    width: 10%;
+    height: 10%;
 }
