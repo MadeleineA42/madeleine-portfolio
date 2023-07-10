@@ -19,6 +19,11 @@ header {
     color: #ffffff;
 }
 
+.hero   {
+    width: 10%;
+    min-height: 100%;
+}
+
 h1 {
     display: inline-block;
     font-size: 40px;
