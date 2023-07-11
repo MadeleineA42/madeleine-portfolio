@@ -97,3 +97,9 @@ height: 10%;
     width: 10%;
     height: 10%;
 }
+
+ul  {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
